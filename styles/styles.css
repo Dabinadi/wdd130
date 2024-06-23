@@ -8,6 +8,9 @@ nav a {
     padding: 20px;
 }
 h1 {
+    color: steelblue;
+}
+img {
     width: 150px;
     height: auto;
     border: 1px solid steelblue;
