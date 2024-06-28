@@ -1,0 +1,6 @@
+@import url(https://fonts.google.com/share?selection.family=Playwrite+ES+Deco:wght@100..400);
+body {
+    font-family: var(--paragraph-font);
+    max-width: 960px;
+    padding: 20px;
+}
