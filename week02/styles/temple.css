@@ -12,7 +12,7 @@
     margin: 0 0 10px 15px;
     border: 1px solid #000;
     padding: 3px;
-    background-color: #bbb;
+    background-color: #111010;
     width: 100px;
     height: auto;
 }
@@ -23,7 +23,7 @@ blockquote {
 
 cite {
     display: block;
-    border-top: 1px dotted #fff;
+    border-top: 1px dotted #0b0b0b;
     padding-top: 3px;
     text-align: right;
     font-size: smaller;
