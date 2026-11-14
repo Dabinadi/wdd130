@@ -38,7 +38,6 @@ nav, p, section, article {
     background-color: var(--secondary-color);
 }
 .hero img {
-    position: absolute;
     display: block;
     width: 100%;
     height: auto;
@@ -54,7 +53,6 @@ h1 {
     color: #f3f6f4ed;
 }
 .hero article img {
-    position: absolute;
     float: right;
     width: 125px;
 }
