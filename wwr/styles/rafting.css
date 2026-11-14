@@ -38,6 +38,7 @@ nav, p, section, article {
     background-color: var(--secondary-color);
 }
 .hero img {
+    position: absolute;
     display: block;
     width: 100%;
     height: auto;
