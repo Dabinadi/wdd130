@@ -53,6 +53,7 @@ h1 {
     color: #f3f6f4ed;
 }
 .hero article img {
+    position: absolute;
     float: right;
     width: 125px;
 }
