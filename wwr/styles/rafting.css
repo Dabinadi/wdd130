@@ -22,7 +22,7 @@ header, main, footer {
     width: 840px;
     margin: 0 auto;
 }
-h1, h2, {
+h1, h2 {
     font-family: var(--heading-font);
     color: var(--primary-color);
 }
@@ -40,6 +40,7 @@ nav, p, section, article {
     display: block;
     width: 100%;
     height: auto;
+    background-color: var(--sec
 }
 h1 {
     position: absolute;
